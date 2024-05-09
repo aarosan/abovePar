@@ -1,0 +1,12 @@
+{
+  "name": "abovepar",
+  "version": "1.0.0",
+  "description": "As a mini-golfer, I desire a PWA mobile friendly application that enables me to keep track of my mini-golf rounds in an efficient way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
